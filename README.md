@@ -3,6 +3,11 @@
 ## Project Summary
 This project builds a deep learning-based classifier to identify agricultural crops from images. A fine-tuned ResNet-50 model is used as the core classifier, with Grad-CAM visual explanations and an interactive Gradio demo for real-time predictions.
 
+
+https://github.com/user-attachments/assets/6ea5350a-51e5-4cc6-bbfc-e5d9532513eb
+
+
+
 ## Model Architecture
 - **Base model**: ResNet-50 (pretrained on ImageNet)
 - **Fine-tuned layers**: `layer3`, `layer4`, and final `fc` layer
