@@ -1,4 +1,4 @@
-# 🌾 Crop Classification with ResNet-50 and Grad-CAM
+#  Crop Classification with ResNet-50 and Grad-CAM
 
 ## Project Summary
 This project builds a deep learning-based classifier to identify agricultural crops from images. A fine-tuned ResNet-50 model is used as the core classifier, with Grad-CAM visual explanations and an interactive Gradio demo for real-time predictions.
